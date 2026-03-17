@@ -1,0 +1,305 @@
+Stream Crossing Assessment and Analysis
+
+An Interactive Qualifying Project Proposal
+Submitted to the Faculty of 
+WORCESTER POLYTECHNIC INSTITUTE
+In Partial Fulfillment of the Requirements of the Degree of Bachelor of Science.
+
+By:
+Kenerson Cronin
+Adam Dean
+Evan Goodman
+Dakota Wellerbrady
+
+Worcester Project Center
+Worcester, Massachusetts
+ 
+Date:
+March 6 2026
+
+Report Submitted to:
+Project Sponsor
+Mr. Utkir Adkhamov
+Nashua River Watershed Association
+Faculty Advisor
+Professor Corey Dehner
+Worcester Polytechnic Institute
+
+This report represents work of WPI undergraduate students submitted to the faculty as evidence
+of a degree requirement. WPI routinely publishes these reports on its web site without editorial
+or peer review. For more information about the projects program at WPI, see
+https://www.wpi.edu/project-based-learning/global-project-program
+i.	Table of Contents
+i. Table of Contents	2
+List of Figures	3
+Chapter 1: Background Chapter	1
+Introduction	1
+I. Climate Change in New England	1
+II. Impacts of Climate Change in New England	2
+III. Mitigating Impacts of Climate Change	5
+IV. Culvert Assessment and Prioritization	6
+Chapter 2: Methodology	9
+Introduction to chapter	9
+Objective 1: Develop Understanding of Culverts and the Assessment Process	9
+Objective 2: Determine Factors and Sources	10
+Objective 3: Explore Best Practices in Culvert Prioritization	10
+Objective 4: Draw Conclusions and Come Up With Recommendations	11
+Bibliography	13
+Appendix A	16
+Informed Consent Preamble	16
+Appendix B	17
+Draft Interview Questions	17
+Appendix C	19
+Data Collection Instruments	19
+Appendix D	20
+Authorship Page	20
+
+List of Figures
+Figure 1: Percent change in rainfall across the United States  (D. R. Easterling et al., 2017)
+Figure 2: Round concrete culvert outlet with headwall, wingwalls, free fall, and scour pool (NAACC, 2019)
+Figure 3: Flood plain population by demographics (Smiley, 2020)
+Figure 4: Nashua River Watershed Association Communities: (Nashua River Watershed Association, n.d.)
+
+
+Chapter 1: Background Chapter
+Introduction
+The United States has seen notable increases in rainfall totals and flash flooding from 1959 to 2026, and outdated infrastructure has been struggling to keep up (Abegaz et al., 2026; Jaroszweski et al., 2010). This has affected not only human lives but also ecosystems nationwide. Specifically, in New England temperatures have risen, rainfall has increased, and extreme weather events have made flooding more common (Janowiak et al., 2018). Stream crossings are one type of infrastructure that has seen significant issues due to increased precipitation. Local organizations such as the Nashua River Watershed Association (NRWA) and regional organizations such as North Atlantic Aquatic Connectivity Collaborative (NAACC) are working to mitigate issues relating to stream crossings. In this project we will be working with the NRWA to explore culvert conditions and if failing culverts disproportionately affect specific communities. In this chapter, we cover climate change in New England and go over the impact this has had on communities there. We will then explore the methods to mitigate the impacts of climate change, and organizations involved in these efforts. Finally, we will introduce the north-central Massachusetts’ communities that will be the focus of this research project.
+I.	Climate Change in New England 
+Temperatures and sea levels are both on the rise globally and New England is no exception. Since 1901, mean annual temperature in New England has increased by 2.4 degrees Fahrenheit (Janowiak et al., 2018). At the same time, sea levels have risen by about 8 inches in that same time period (Sweet et al., 2022). Rising temperatures and sea levels can lead to more extreme rainfall and weather events and lead to flooding (Tippett, 2018). 
+In New England, precipitation totals and the frequency of extreme weather events have been increasing since 1960 (Picard et al., 2023). While summer precipitation totals have been less affected, winter precipitation has gone up 12% just from 2002 to 2022 (Picard et al., 2023). Snowfall is on a downward trend and rainfall is on an upward trend (D. R. Easterling et al., 2017). Additionally, extreme weather events have increased. New England has seen the largest increase in 99th percentile wet day precipitation in the continental US (D. R. Easterling et al., 2017). The northeast has seen a 55% increase in extreme weather events between 1958 and 2016 (See Figure 1) (D. R. Easterling et al., 2017).
+
+Figure 1: Percent Change in Rainfall in US (D. R. Easterling et al., 2017)
+	Additionally, temperatures are expected to rise an additional 3-8 ℉ by 2100, on top of the already risen temperatures (Janowiak et al., 2018). Sea levels are also expected to rise 0.38m by 2050 and 0.5m by 2100 (D. Easterling et al., 2018). New England is expected to see an increase in annual heavy precipitation of four to five times the current rate by 2100 (D. Easterling et al., 2018). All of these trends have concerning implications for infrastructure, ecosystems, and future livability of populated areas.
+II.	Impacts of Climate Change in New England
+Climate change can cause damage to infrastructure, and aquatic life and also may disproportionately impact lower income communities. For the purposes of this research, infrastructure refers to roads, bridges, and culverts. A culvert is a tunnel-like structure, typically made of concrete, steel, rock, stone, or plastic, that allows water to flow under roads, railroads, or embankments. They are a road stream crossing that is used with the idea that the culvert will decrease flood and erosion risk (Mukherjee et al., 2024). They are designed to manage water flow, such as streams or stormwater, preventing erosion and flooding without requiring a full bridge. Common shapes include round pipes, arches, and boxes (See Figure 2). The increased flooding that comes with climate change damages roads, bridges, and culverts, which can disrupt transportation, isolate communities, and impede emergency services (Sydor-Estable et al., 2025). Along with this increase in flooding comes an increase in flow rate.
+Fastmoving water can exacerbate erosion and lead to infrastructure failures. Emergency infrastructure failures are extremely costly, with reactive repairs typically costing 30% to 40% more than proactive maintenance and large-scale highway culvert replacements often costing between $500,000 and $1,200,000 (MassDOT, 2025). Beyond direct construction, these failures trigger indirect economic losses through road closures that can cost regional economies millions of dollars per day in lost commerce and emergency service delays. They can interrupt emergency services and commutes. If a culvert fails, it can flood the road making the road impassable for a time. Not only will this water make it hard for passing cars, but it can also wash debris onto the road or erode the shoulders of the road  (Abegaz et al., 2024). New England has a history that shows that culvert failures in storms and isolate vulnerable communities (Mukherjee et al., 2024). When culverts are in poor condition, these impacts can be exacerbated and negatively impact aquatic ecosystems (Sydor-Estable et al., 2025).  Stormwater runoff can increase nutrient concentration, which can make ecosystems chemically unbalanced and lead to decreases in biodiversity (Kamanmalek & Alamdari, 2024). This is why assessments are so important for preserving habitats. 
+Also, flood events mobilize sediment, nutrients, and pollutants, negatively impacting water quality and aquatic ecosystems (Huckins, 2015). Excess sediment can smother fish spawning areas, reduce oxygen levels, and degrade habitat for invertebrates critical to the food web. In the example of sediment destroying fish spawn, this means that the fish population will decrease while species that are prey for fish, such as insects, will rapidly increase. The prey will then over eat leading to habitat destruction because of the imbalance in the food web. On the other hand, if the fish spawn are not destroyed and the insects habitats are destroyed this could lead to the fish starving, shrinking fish populations and compromising biodiversity (Jones & Hale, 2020). Part of this problem is that there is little management or assessment tools made available for this (Kamanmalek & Alamdari, 2024). Communities that lack political or financial power are often hurt more because they don’t have access to timely assessments.
+Communities with limited political and financial  resources are disproportionately affected by infrastructure failures and flooding, highlighting the intersection of environmental risk and social equity (Jaroszweski et al., 2010; Zheng et al., 2025). This divide is exacerbated by the increased effects of climate change (Jaroszweski et al., 2010; Zheng et al., 2025). High-quality and strategically placed infrastructure is frequently absent in marginalized communities. Because these communities often lack the systems necessary to mitigate runoff, heavy rainfall can lead to pollutant levels—including heavy metals and bacteria—that are 10 to 100 times higher than in modernized zones, significantly increasing the risk of waterborne diseases (Kamanmalek & Alamdari, 2024). This infrastructure deficit directly correlates to a heightened public health burden, as seen in the $3.3 billion spent annually on treating waterborne illnesses that disproportionately affect low-income and minority populations (CDC, 2025; Kamanmalek & Alamdari, 2024). Communities that don't have political influence or enough funding have trouble maintaining at risk infrastructure. This leads to an increase in flood risk and all the risks that come with increased flooding such as public health risks and collapsed roads  (Abegaz et al., 2024). Ethnic and racial minorities also face higher flood risk (See Figure 3) (Flores et al., 2025). 
+
+Figure 3: Flood risk by Demographic (Smiley, 2020)
+Once an at risk community is hit with a flood, they also face prolonged recovery times as well as major disruptions to everyday live like difficulties in transportation, water pollution, and emergency services Vulnerable populations also face longer recovery times and greater disruptions to transportation, water, and emergency services after extreme events (Mukherjee et al., 2024). Socioeconomic backgrounds can affect if communities get funding for infrastructure and how often that infrastructure is assessed (Asadifakhr et al., 2025). Given the breadth of climate change impacts, communities need numerous mitigation tools in their toolbox. 
+
+III.	Mitigating Impacts of Climate Change
+As climate change impacts increase, it is important for communities to be resilient. A resilient community has the ability to "absorb disturbance and reorganize" after a disaster 
+(Janowiak et al., 2018). Towns build resilience by upgrading roads and bridges so that the town can recover faster after a storm. Communities that use multiple methods to mitigate 
+climate risks are often more successful in these efforts. For example, putting in "fish-friendly" open-bottom culverts while also protecting natural floodplains work better than only
+using one type of engineering (Mukherjee et al., 2024). Combined methods can help keep the water clean and prevent topsoil from washing away when huge 100-year storms hit. Trees and 
+plants along riverbanks are another useful mitigation method. The trees and plants soak up rain and keep dirt from getting into the water. According to Abegaz et al. (2024), land-use 
+planning is important because, when done right, it prevents people from building in flood zones. Neighborhoods and natural nature sites are able to recover faster from flooding. The 
+combination of natural and man-made strategies helps protect wildlife and keep the water clean as climate change makes storms worse.
+Culverts and stream crossings connect ecosystems and are effective at keeping infrastructure in good condition for longer periods of time. When culverts are carefully designed to be as 
+effective as possible, they can reduce flood risk, improve aquatic systems connectivity, and decrease erosion and sediment transportation (Huckins, 2015). Multiple studies have shown that
+to improve fish migration between bodies of water, decrease habitat fragmentation, and keep roads from being washed out during floods having passable and correctly sized culverts are
+essential (Jones & Hale, 2020; Sydor-Estable et al., 2025). Also, culverts that have ecological design principles are shown to extend the effective time period of culverts as well as
+reducing costs of maintenance (Mukherjee et al., 2024). Properly designed and kept culverts can help avoid environmental damage and increase water connectivity while decreasing flood risk. 
+New England has around 25,000 culverts  and small bridges (Massachusetts Division of Ecological Restoration (DER)). This sizable number means communities need a clear assessment framework 
+to maintain their effectiveness. The NAACC  has developed standard assessment protocols which keep data collection consistent across a 13 state region from Maine’s to West Virginia’s 
+watersheds. NAACC assessments evaluate hydraulic capacity, structural condition, and aquatic connectivity at stream crossings. The data can also be used to understand flood risk, ecosystem 
+impacts, and infrastructure vulnerability in surrounding areas. The data collected from these assessments can be used to prioritize culvert repairs (NAACC, 2019). This ensures evidence based
+prioritization of at risk culverts and makes data for ensuring proper resource allocation available. Early detection of culvert failure is extremely important in preventing massive failures 
+of culverts and helps reduce costs of flooding both financially and socially (Abegaz et al., 2024). However, not all communities are able to conduct these assessments nor maintain culvert
+integrity. In a study in New Hampshire, researchers found that socioeconomic backgrounds may impact funding and whether communities with failing culverts get the resources they need to
+maintain or repair culverts (Asadifakhr et al., 2025). Most culverts are undersized, being too small in diameter, which can block fish and wildlife movement. This also increases flood hazards 
+for communities because the volume of water being drained by the culvert is less than the volume of water entering. Regular culvert assessments save money and resources by preventing costly 
+culvert failures. Because culvert assessments are important, it is also important to have assessment standards.
+
+IV.	Culvert Assessment and Prioritization
+State regulations issued by the Army Corps and revised by MassDEP, require culverts to meet the Stream Crossing Standards. These requirements include: the water carrying capacity of
+the stream; the ability for the stream bank to be used for wildlife breeding, refuge, and food for fisheries; and the ability to have important habitat functions (Ecological 
+Restoration Stream Crossings Projects, 2014). The Division of Ecological Restoration supports communities in replacing undersized culverts and offers financial assistance through the 
+Culvert Replacement Municipal Assistance Grant Program (Mass.Gov, n.d.). To assist with upholding these standards, the NAACC provides a format and database for stream crossings assessments.
+The NAACC is a network of individuals from universities, organizations, and more that focuses on improving aquatic connectivity across 13 states from Maine to West Virginia (NAACC, 2026).
+The NAACC conducts research into stream crossings and all parts about them from water quality to organism movement. The NAACC’s research is used as a standard throughout the 13 states 
+they operate. Certain researchers have found that the NAACC’s research into certain topics, like brook trout passage at road culverts in Pennsylvania, are lacking because they primarily 
+focus on physical structural barriers while failing to account for biological and environmental variables, such as water temperature and flow velocity, which significantly impact the actual 
+movement of brook trout through culverts and could be improved (Rogers et al., 2021). However, this doesn’t take away from all of the important means that the NAACC’s efforts are all for
+naught. The NAACC is an ever developing and growing organization hoping to create means to protect the environment from adverse effects such as pollution and climate change. Yet they aren’t 
+the only ones to do so.
+
+The NRWA is a regional leader in natural resource protection and environmental education for all 32 of their watershed communities located in north central Massachusetts and southern New Hampshire (See Figure 4).
+
+	   Figure 4: NRWA Towns (Nashua River Watershed Association, n.d.)
+ The NRWA was founded in 1969 through the belief that everyone can make a difference (NRWA, 2023). The organization’s goal is to protect and advocate for water resources in the Nashua 
+River Watershed. NRWA also protects land resources, stream crossings, addresses the impacts of climate change with nature-based solutions, uses hands-on science based education for
+adults and youth, and builds an equitable and enduring organization (NRWA, 2023). NRWA recognizes that climate resilience efforts, like maintaining, repairing and replacing culverts may 
+be inequitable. Consequently, they partnered with WPI’s Water Resource Outreach Center to explore this topic. In collaboration with the NRWA the goal of our project is to explore trends 
+regarding whether socioeconomic factors impact the quality and condition of culverts in communities in the Nashua River Watershed. We introduce our methodological approach in the next chapter. 
+
+Chapter 2: Methodology
+Introduction to chapter 
+The goal of this project is to help the NRWA look at stream crossing impacts and culvert assessments in Massachusetts, specifically in Lancaster, Leominster, Fitchburg, Rutland, and Sterling. 
+We have outlined four objectives to help us complete this project goal. In these objectives we collect data, analyze it, and assess it for possible correlations. We discuss each objective 
+in further depth along with their methods in the sub-sections below. 
+Objective 1. Develop Understanding Of Culverts And The Assessment Process
+Objective 2. Determine Factors and Sources
+Objective 3. Explore Best Practices In Culvert Prioritization
+Objective 4. Draw Conclusions and Come Up With Recommendations
+____________________________________________________________________________________________________________________________________________________________________________________________
+Objective 1: Develop Understanding of Culverts and the Assessment Process
+	First to help us understand the culvert assessment process, we will complete participant and direct observation of culvert assessment, interview NRWA staff, and analyze the content of 
+existing culvert assessment data. To begin, we will undergo training from NRWA staff following the NAACC assessment training guide (NAACC, 2019). This will include studying material and 
+taking a test before we observe or conduct any assessments. Once we have passed the test we will shadow NRWA staff for 20 assessments to complete our training. While on these assessments 
+we will have a chance to gain a better understanding of the real conditions of culverts and how they are assessed. We will interview NRWA staff about their experiences when assessing these 
+culverts. They have far more experience than us as they have assessed over 1,000 culverts and are certified to train volunteers (see draft interview questions, Appendix B). They will be able
+to help us understand some common conditions when looking at culvert disrepair. We specifically want to talk more with Utkir Adkhamov, the senior water equality associate at the NRWA, about 
+these assessments and the state of culverts. 
+	After this training and interviews with NRWA staff we will conduct content analysis of data and culvert roles in stream crossings. We will look at data in five Central Massachusetts towns: 
+Lancaster, Leominster, Sterling, Fitchburg, and Rutland. This will allow us to have a better understanding of the quality of the culverts in these areas and in what areas they are failing. We 
+will also analyze more articles and data on how culvert condition affects stream crossings and the roles of culverts in stream crossings. This will help us understand how different conditions 
+can play a part in the effectiveness of stream crossings. 
+____________________________________________________________________________________________________________________________________________________________________________________________
+Objective 2: Determine Factors and Sources 
+	Next we will gain a deeper understanding of the factors that affect culvert condition as well as the sources that can impact culvert disrepair. To do this, we will interview Utkir Adkhamov, 
+the senior water quality associate at the NRWA, and NRWA staff once again . This time we will focus our questions on what common factors they notice when assessing culverts in poorer condition
+based on their past experiences (see draft interview questions, Appendix B). We will also ask them about whether they notice any possible sources that can contribute to culvert disrepair. 
+Because they have assessed over 1,000 culverts and have a lot more knowledge than the team on these assessments, Mr. Adkhamov and NRWA staff’s input will help us understand what factors affect 
+the culvert conditions for assessment purposes. 
+	We will then do a content analysis where we look into data provided by the towns’ Department of Public Works (DPW),  MassDEP, and the Massachusetts Office of Environmental Justice and Equity 
+(OEJE). These sources of data may focus on culvert conditions as well as affecting factors and sources. Prior student projects identified public perception of the importance of culvert conditions
+as a primary contributor to inadequate funding (Al Hakeem et al., 2023; Pagan et al., n.d.). Also, we will conduct content analysis on the socioeconomic background of communities by looking at
+data from real estate rates in each town, insurance rates in each town with a focus on presence/absence of flood insurance, Office of Environmental Justice and Equity’s environmental justice
+survey, and the American Community Survey. These sources can help us understand if demographics impact culvert conditions-culvert conditions. This would provide us with a better understanding 
+of more prominent socioeconomic factors that are environmentally connected. 
+
+Objective 3: Explore Best Practices in Culvert Prioritization 
+	Next, we will explore the best universal methods for culvert prioritization, construction, and maintenance. We will analyze areas where experts have created long lasting, ecologically protective, and cost effective culverts. First we will do content analysis using the NAACC database to identify areas that meet all of the criteria listed. The NAACC database covers 13 states along the east coast. We will search for an area that stands out as exceptional (less than 2.5 percent of culverts with severe barriers). We will find the factors that lead to their success and find out if they are possible to implement in our focus areas in central Massachusetts. 
+The next step will be to interview the Department of Public Works employees in  those communities to find out what they have done and how they did the assessment and repair (see draft interview questions, Appendix B). In line with the last objective, we will also use some of the data gathered from local DPW’s to influence our understanding. Once we have found factors influencing culvert condition positively we will explore which of these are realistic to copy. Some factors such as available funding and climate conditions may be beyond our focus areas’ ability to control.
+
+Objective 4: Draw Conclusions and Come Up With Recommendations
+	Finally, we will use the data we collected to develop recommendations for the NRWA. We will first achieve this goal by analyzing and compiling data we have collected throughout the other objectives. This will be done so we can find trends in the data to help support the creation of our recommendations and allow us to gain further insight into how culverts should be repaired.
+	We will also be using artificial intelligence (AI), like ChatGPT or Google Gemini, and other data analysis tools to help draw conclusions and come up with recommendations to address any socioeconomic disparities that emerge from the data based on our data about the culverts. We will use AI to analyze the data we have acquired throughout all our objectives from the five communities of Lancaster, Leominster, Fitchburg, Rutland, and Sterling to see if any similarities or trends emerge. AI is the perfect tool for such a goal since artificial intelligence is known for its ability to detect trends and similarities along with giving quick comprehensive answers to any questions asked of it (Qureshi & Jeon, 2024). To confirm the accuracy of the AI assessment, we will spot check the results by cross referencing with older culvert data and other culvert in similar conditions to verify the new assessment and new data collected are concluded correctly. By following these four objectives, our team will be able to give the NRWA a clear plan for which culverts need the most help. This project will make sure that the repairs we suggest are good for the environment and helpful for the people living in these five towns.
+
+Bibliography
+Abegaz, R., Xu, J., & Wang, F. (2026). Flood Impacts on Civil Infrastructure Systems: A Comprehensive Review of Impacts, Modeling Tools, Emerging Technologies, and Mitigation Strategies. Natural Hazards Review, 27(1), 03125002. https://doi.org/10.1061/NHREFO.NHENG-2477 
+Abegaz, R., Xu, J., Wang, F., & Huang, J. (2024). Impact of flooding events on buried infrastructures: A review. 10. https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2024.1357741/full 
+Al Hakeem, M., Cloutier, N., & Ryan, T. (2023). Prioritization Planning for Culvert Replacement. 
+CDC. (2025, May 29). Estimate of Waterborne Disease Burden in the United States. Waterborne Disease and Outbreak Surveillance Reporting. https://www.cdc.gov/healthy-water-data/waterborne-disease-in-us/results.html
+Easterling, D., Fahey, D., Hayhoe, K., Doherty, S., Kossin, J., Sweet, W., Vose, R., Wehner, M., & Wuebbels, D. (2018). Our Changing Climate. National Oceanographic and Atmospheric Administration: Technical Reports and Related Materials. https://digitalcommons.unl.edu/noaatr/10 
+Easterling, D. R., Arnold, J. R., Knutson, T., Kunkel, K. E., LeGrande, A. N., Leung, L. R., Vose, R. S., Waliser, D. E., & Wehner, M. F. (2017). Ch. 7: Precipitation Change in the United States. Climate Science Special Report: Fourth National Climate Assessment, Volume I. U.S. Global Change Research Program. https://doi.org/10.7930/J0H993CC 
+Huckins, C. (2015). Culvert replacements: Improvement of stream biotic integrity? 23. 
+Janowiak, M. K., D’Amato, A. W., Swanston, C. W., Iverson, L., Thompson, F. R., Dijak, W. D., Matthews, S., Peters, M. P., Prasad, A., Fraser, J. S., Brandt, L. A., Butler-Leopold, P., Handler, S. D., Shannon, P. D., Burbank, D., Campbell, J., Cogbill, C., Duveneck, M. J., Emery, M. R., … Templer, P. H. (2018). New England and northern New York forest ecosystem vulnerability assessment and synthesis: A report from the New England Climate Change Response Framework project. Gen. Tech. Rep. NRS-173. Newtown Square, PA: U.S. Department of Agriculture, Forest Service, Northern Research Station. 234 p., 173, 1–234. https://doi.org/10.2737/nrs-gtr-173 
+Jaroszweski, D., Chapman, L., & Petts, J. (2010). Assessing the potential impact of climate change on transportation: The need for an interdisciplinary approach. Journal of Transport Geography, 18(2), 331–335. https://doi.org/10.1016/j.jtrangeo.2009.07.005 
+Jones, M., & Hale, R. (2020). Using knowledge of behaviour and optic physiology to improve fish passage through culverts. 21. https://onlinelibrary-wiley-com.ezpv7-web-p-u01.wpi.edu/doi/10.1111/faf.12446 
+Kamanmalek, S., & Alamdari, N. (2024). Advancing equitable stormwater management: A decision support tool integrating best practices for nutrient removal and environmental justice. Ecological Informatics, 80, 102496. https://doi.org/10.1016/j.ecoinf.2024.102496
+MassDOT. (2025). ResilientMass Finance Strategy Full Report. 
+Mukherjee, S., Amatya, D. M., Campbell, J. L., Gryczkowski, L., Panda, S., Johnson, S. L., Elder, K., Jalowska, A. M., Caldwell, P., Grace, J. M., Młyński, D., & Wałęga, A. (2024). A watershed-scale multi-approach assessment of design flood discharge estimates used in hydrologic risk analyses for forest road stream crossings and culverts. Journal of Hydrology, 632, 130698. https://doi.org/10.1016/j.jhydrol.2024.130698 
+NAACC. (2019). Culvert Condition Assessment Manual. 
+NAACC. (2026). NAACC homepage: North Atlantic Aquatic Connectivity Collaborative : UMass Amherst. https://streamcontinuity.org/ 
+Pagan, A., Crumb, B., Jasmin, S., & Wang, B. (n.d.). Stormwater Utility Creation and Maintenance. 
+Picard, C. J., Winter, J. M., Cockburn, C., Hanrahan, J., Teale, N. G., Clemins, P. J., & Beckage, B. (2023). Twenty-first century increases in total and extreme precipitation across the Northeastern USA. Climatic Change, 176(6), 72. https://doi.org/10.1007/s10584-023-03545-w 
+Qureshi, K. N., & Jeon, G. (2024). Next Generation AI Language Models in Research: Promising Perspectives and Valid Concerns. CRC Press. 
+Rogers, K. M., Rummel, S. M., Lavelle, K. M., Duchamp, J. E., Niles, J. M., & Janetski, D. J. (2021). A Comparison of Brook Trout Passage at Road Culverts to Broadscale Assessment Criteria in a Pennsylvania Headwater Stream. North American Journal of Fisheries Management, 41(5), 1351–1359. https://doi.org/10.1002/nafm.10648 
+Smiley, K. T. (2020). Social inequalities in flooding inside and outside of floodplains during Hurricane Harvey. Environmental Research Letters, 15(9), 0940b3. https://doi.org/10.1088/1748-9326/aba0fe 
+Sweet, W., Hamlington, B., Kopp, R., Weaver, C., Barnard, P., Bekaert, D., Brooks, W., Craghan, M., Dusek, G., Frederikse, T., Garner, G., Genz, A., Krasting, J., Larour, E., Marcy, D., Marra, J., Obeysekera, J., Osler, M., Pendleton, M., … Zuzak, C. (2022). Global and Regional Sea Level Rise Scenarios for the United States: Updated Mean Projections and Extreme Weather Level Probabilities along U.S. Coastlines. National Oceanographic and Atmospheric Administration: Technical Reports and Related Materials. https://digitalcommons.unl.edu/noaatr/9 
+Sydor-Estable, C., Turgeon, K., & Maheu, A. (2025). Tragedy of the culverts? Characterizing the state of road infrastructure in public and private forests. Journal of Environmental Management, 373, 123814. https://doi.org/10.1016/j.jenvman.2024.123814 
+Tippett, M. K. (2018). Extreme weather and climate. Npj Climate and Atmospheric Science, 1(1), 45. https://doi.org/10.1038/s41612-018-0057-1 
+Wilkins, P. (2026). Guides: Research Methodology: Interviews. https://libguides.wpi.edu/researchmethod/interviews hod/interviews 
+
+Appendix A
+Informed Consent Preamble 
+We are students from Worcester Polytechnic Institute in Massachusetts and are working with the Nashua River Watershed Association to conduct research. We are conducting interviews on flood risk and stream crossing conditions in central Massachusetts and would be grateful for your participation. The interview should take no more than 1 hour and you may choose to end the interview at any time. We believe that this research will help assessors locate and help at risk culverts and communities to increase resilience and decrease flood risk. 
+Your participation in our interview is completely voluntary and you may choose to stop responding at any time. Your answers will be associated with your name and credentials unless you ask us to keep your identity confidential. We would like to disclose your name if possible to ensure credibility, but if at any time you would not like us to use your name, we can remove your name and any identifying factors from our research. Please feel free to contact us at any time with any questions or concerns. We can be reached at gr-d26.streamcrossing@wpi.edu. You can also reach our faculty advisor, Corey Dehner at cdehner@wpi.edu. If you would like, we are happy to provide you with a copy of our final report. Alternatively, our findings will be able to be found at https://digital.wpi.edu/collections/iqp. Thank you for your time and participation, we appreciate it. 
+____________________________________________________________________________________________________________________________________________________________________________________________
+Appendix B
+Draft Interview Questions
+
+Draft Interview Questions
+Subject: Department of Public Works (DPW)
+Questions:
+How does your prioritization process work for stream crossing replacement?
+Do you have dedicated crews for it or is it a general task?
+How much planning goes into every stream crossing, what factors are considered?
+How do you decide lifespan and material usage and money allocated to each crossing
+What are the largest issues you face when doing culvert repairs or replacements
+What percentage of your budget is allocated to replacements/how much of the funding comes from grants
+Leominster Department of Works (DPW)
+What have you learned from the aftermath of the flooding in 2023?
+Do you think there was a lack of future sighted design for the culverts?
+What considerations were made for the replacements for Pleasant Street, Lancaster Street, and Commuter Rail track washouts
+Did the flooding disproportionately affect specific communities and why do you think that is?
+Nashua River Watershed Association (NRWA)
+Are there certain areas that you find receive less funding even though they apply for grants?
+How does the grant application process work, and how often do you get the requested funds?
+What factors are considered when grants are being approved or rejected?
+
+MassDEP:
+When evaluating ecosystems near culverts: Do you find any common factors that show up together when evaluating poorer wildlife conditions?
+Are there forms of pollution that are more common after flooding?
+Mass Vulnerability Practices Coordinators (MVP)
+What areas have you planned or prepared most for?
+How have you determined how much to prepare in certain areas?
+Office of Environmental Justice and Equity  (OEJE)
+How does this survey support culvert or stream‑crossing assessments?
+What environmental factors are most important for you to capture with this tool?
+Are there any indicators you consider essential for evaluating environmental conditions?
+How do you balance qualitative observations with quantitative measurements?
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+Appendix C
+Data Collection Instruments
+Data Collection Instruments
+Instrument
+Data
+Content Analysis
+NAACC database
+Role Culverts Play In Stream Crossings
+Department of Public Works (DPW)
+Massachusetts Department of Environmental Protection (MassDep)
+Massachusetts Office of Environmental Justice and Equity (OEJE)
+Interactive Qualifying Projects (IQP) at Worcester Polytechnic Institute
+Town Real Estate Rates
+Town Insurance Rates (Specifically Flood Insurance)
+Office of Environmental Justice and Equity
+American Community Survey
+Artificial Intelligence (Like ChatGPT, Google Gemini, Claude)
+Google Scholar
+Interviews
+Raymond Racine - Leominster DPW Director
+Utkir Adkhamov - Senior Water Quality and Restoration Associate
+Dr. Jessica Veysey Powell - Water Programs Director
+Hillary King - Municipal Vulnerability Preparedness (MVP) Coordinator Central Region
+MassDER Employees
+Massachusetts Office of Environmental Justice and Equity employee
+Participant Observation
+Culvert Assessments Shadowing
+NAACC Training
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+Appendix D
+Authorship Page
+Chapter Sections, Authors, Editors
+Chapter/Section
+Primary Author
+Primary Editors
+TOC | Drafted by All | Edited by All
+Literature Review | Drafted by All | Edited by All
+Background Chapter
+(Drafted by Section)
+---------------------------------
+Introduction | Adam | Edited by All
+Use of AI for Introduction: Artificial intelligence was used in a negligible capacity for the first section of this chapter. We had issues generating the proper formatting using google docs, so ChatGPT was used to give recommendations for spacing settings. AI was not used to generate any text that appears here.
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+I. Climate Change in New England | Adam | Edited by All
+Use of AI for Topic 1: ChatGPT was used to give recommendations for spacing settings. AI was not used to generate any text or information that appears here.
+
+II. Impacts of Climate Change in New England | Dakota and Kenerson | Edited by All
+Use of AI for Topic 2: Artificial intelligence was used in an extremely limited capacity. AI was only used to help with formatting due to issues with Google Docs. Besides that, nothing else was made by AI. All text was hand typed.
+
+III. Mitigating Impacts of Climate Change | Kenerson and Dakota | Edited by All
+Use of AI for Topic 3: Artificial intelligence was used sparingly throughout this section. Like the others, it was only used to help format the Google Doc and for nothing else. Everything written was hand typed.
+
+IV. Organizations involved in stream crossing protection | Evan and Dakota | Edited by All
+Use of AI for Topic 4:Artificial intelligence tools were used in a small way while preparing this report. AI was used to help with minor editing. AI was used to help with checking grammar and making sentences clearer. AI also improves readability. It was also used to create a list of possible sources. Those sources were then carefully checked using Google Scholar to make sure they were accurate and reliable. All of the research, writing, analysis, and understanding of the sources were done by the project team. AI was not used to write the report, complete the research, or influence the conclusions of this project.
+____________________________________________________________________________________________________________________________________________________________________________________________
+Methodology
+(Drafted by Section)
+---------------------------------
+Introduction | Adam | Edited by All
+Objective 1: Gain Understanding of Culverts and the Assessment Process | Kenerson | Edited by All
+Objective 2: Determine Factors and Sources | Kenerson | Edited by All
+Objective 3: Explore Best Practices in Culvert Repair | Adam | Edited by All
+Objective 4: Draw Conclusions and Come Up With Recommendations | Evan & Dakota | Edited by All
+Bibliography | Drafted by All | Edited by All
+Appendices | Evan & Kenerson | Edited by Evan & Kenerson
+
